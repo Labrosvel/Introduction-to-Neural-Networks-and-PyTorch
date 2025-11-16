@@ -5,7 +5,7 @@ https://www.coursera.org/learn/deep-neural-networks-with-pytorch?specialization=
 ## Module 1: Tensor and Datasets
 - Overview of Tensors
 - Tensors 1D
-- Reading 1a: Tensors 1D: Reading1a
+- Tensors 1D (Reading 1a)
 - Lab1a: Tensors 1D
 - Two-Dimensional Tensors
 - Lab1b: Two-Dimentional Tensors

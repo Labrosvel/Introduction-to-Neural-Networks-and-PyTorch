@@ -15,3 +15,31 @@ https://www.coursera.org/learn/deep-neural-networks-with-pytorch?specialization=
 - Dataset
 - Lab1e: Dataset
 - Lab1f: Torch Vision Datasets
+
+## Module 2: Linear Regression
+- Linear Regression Prediction
+- Lab2a: Linear Regression 1D: Prediction
+- Linear Regression Training
+- Loss
+- Gradient Descent
+- Cost
+- Linear Regression PyTorch
+- Lab2b: Linear Regression 1D: Training One Parameter
+- PyTorch Linear Regression Training Slope and Bias
+- Lab2c: Linear Regression: Prediction
+- Reading 2a: Best Practices for Training Linear Regression Models in PyTorch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

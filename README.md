@@ -29,6 +29,21 @@ https://www.coursera.org/learn/deep-neural-networks-with-pytorch?specialization=
 - Lab2c: Linear Regression: Prediction
 - Reading 2a: Best Practices for Training Linear Regression Models in PyTorch
 
+## Module 3: Linear Regression PyTorch Way
+- Stochastic Gradient Descent
+- Lab3a: Stochastic Gradient Descent and Data Loader
+- Mini-Batch Gradient Descent
+- Lab3b: Mini-Batch Gradient Descent
+- Optimization in PyTorch
+- Lab3c: Optimization in PyTorch
+- Training, Validation and Test Split
+- Training, Validation and Test Split in PyTorch
+- Lab3d: Training, Validation and Test Split in PyTorch
+
+
+
+
+
 
 
 

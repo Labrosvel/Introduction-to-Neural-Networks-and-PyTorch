@@ -50,6 +50,15 @@ https://www.coursera.org/learn/deep-neural-networks-with-pytorch?specialization=
 - Multiple Output Linear Regression Training
 - Lab4d: Multiple Output Linear Regression Training
 
+## Module 5: Logistic Regression for Classification
+- Linear Classifiers
+- Logistic Regression Prediction
+- Lab5a: Logistic Regression Prediction
+- Bernoulli Distribution and Maximum Likelihood Estimation
+- Logistic Regression Cross Entropy Loss
+- Lab5b: Logistic Regression Mean Square Error
+- Lab5c: Logistic Regression Cross Entropy
+
 
 
 

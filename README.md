@@ -40,6 +40,17 @@ https://www.coursera.org/learn/deep-neural-networks-with-pytorch?specialization=
 - Training, Validation and Test Split in PyTorch
 - Lab3d: Training, Validation and Test Split in PyTorch
 
+## Module 4: Multiple Input Output Linear Regression
+- Multiple Linear Regression Prediction
+- Lab4a: Multiple Linear Regression Prediction
+- Multiple Linear Regression Training
+- Lab4b: Multiple Linear Regression Training
+- Linear Regression Multiple Outputs
+- Lab4c: Linear Regression Multiple Outputs
+- Multiple Output Linear Regression Training
+- Lab4d: Multiple Output Linear Regression Training
+
+
 
 
 

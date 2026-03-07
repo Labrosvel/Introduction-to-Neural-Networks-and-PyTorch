@@ -1,6 +1,5 @@
-https://www.coursera.org/learn/deep-neural-networks-with-pytorch?specialization=ai-engineer
-
-https://www.coursera.org/professional-certificates/ai-engineer#courses
+- https://www.coursera.org/learn/deep-neural-networks-with-pytorch?specialization=ai-engineer
+- https://www.coursera.org/professional-certificates/ai-engineer#courses
 
 # Introduction-to-Neural-Networks-and-PyTorch
 
